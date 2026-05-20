@@ -12,7 +12,7 @@ Feito isto, irá utilizar os comandos:
 
 ``` Power Shell / Terminal
   npx prisma generate
-  npx prisma migrate dev ```
+  npx prisma migrate dev
 
 ```
 Agora, para rodar o servidor é só executar o comando
